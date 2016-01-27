@@ -1,5 +1,4 @@
-# lab3
+Devon Joes
 CSCI 3308 Lab 3 - Version control
-Devon Jones
-
 THIS MIGHT CAUSE A MERGE CONFLICT
+Partner: Booker Lightman
